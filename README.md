@@ -3,7 +3,8 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="All Night Long" src="https://free-images.com/display/keyboard_laptop_chiclet_keyboard.html">
+ <img alt="All Night Long" src="![keyboard_laptop_chiclet_keyboard](https://github.com/user-attachments/assets/9cfb3e8e-f33c-478c-8411-d2cfc67bce9f)
+">
 </picture>
 
 <!--
