@@ -3,7 +3,7 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="All Night Long" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXl3cG85aTV1ZnNueGM0MWZ5dzUzYWIxYjhhZGlxc3B2ZWRndWptcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNO5l564Xs6v1Wpx2M/giphy.gif">
+ <img alt="All Night Long" src="https://free-images.com/display/keyboard_laptop_chiclet_keyboard.html">
 </picture>
 
 <!--
