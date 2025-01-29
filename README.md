@@ -1,4 +1,5 @@
-## Hi there. My name is Onur Citaci. I plan on becoming a better programmer.
+## Hi there. My name is Onur Citaci. I plan on becoming a better programmer to help make the world a better place.
+
 
 <!--
 **CHITACHI/CHITACHI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
