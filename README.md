@@ -1,9 +1,9 @@
 ## Hi there. My name is Onur Citaci. I plan on becoming a better programmer.
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://free-images.com/display/keyboard_laptop_chiclet_keyboard.html">
- <source media="(prefers-color-scheme: light)" srcset="https://free-images.com/display/keyboard_laptop_chiclet_keyboard.html">
- <img alt="YOUR-ALT-TEXT" src="https://free-images.com/display/keyboard_laptop_chiclet_keyboard.html">
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 <!--
 **CHITACHI/CHITACHI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
